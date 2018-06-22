@@ -1,0 +1,11 @@
+body {
+    background: #333;
+}
+
+#study {
+    background: url('../images/test.jpg');
+    height: 680px;
+    width: 320px;
+    border-radius: 2px;
+    flex: 1;
+}
